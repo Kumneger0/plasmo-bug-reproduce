@@ -26,6 +26,9 @@
   "manifest": {
     "host_permissions": [
       "https://*/*"
-    ]
+    ],
+    "web_accessible_resources": [
+			"tabs/savepassword.html"
+		]
   }
 }
